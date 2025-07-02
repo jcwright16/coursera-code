@@ -1,0 +1,3 @@
+[submodule "snowflake-de/modern-data-engineering-snowflake"]
+	path = snowflake-de/modern-data-engineering-snowflake
+	url = https://github.com/jcwright16/coursera-code.git
